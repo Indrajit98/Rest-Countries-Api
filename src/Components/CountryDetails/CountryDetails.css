@@ -1,0 +1,8 @@
+.countryDetails{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #333;
+    margin-top: 25px;
+    text-align:left;
+    padding:10px;
+}
